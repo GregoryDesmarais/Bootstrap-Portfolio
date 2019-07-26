@@ -1,0 +1,14 @@
+footer {
+    background: #666666;
+    color: #cccccc;
+    border-top: 8px solid #4aaaa5;
+    padding: 2% 0 0;
+}
+
+header {
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    background: #ffffff;
+    border: #cccccc;
+    padding: 1% 2% 0;
+    color: #4aaaa5;
+}
